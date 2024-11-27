@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "brand": "Karbonn",
+            "model": "Karbonn A3",
+            "operatingSystem": "Android 2.3.6",
+            "year": 2013,
+            "price": 2730
+        },
+        {
+            "id": 2,
+            "brand": "Xiaomi",
+            "model": "Xiaomi Redmi 4 (China)",
+            "operatingSystem": "Android 6.0.1, MIUI 8",
+            "year": 2016,
+            "price": 1303
+        },
+        {
+            "id": 3,
+            "brand": "HTC",
+            "model": "HTC One (E8)",
+            "operatingSystem": "Android 4.4.2, up to 6.1, Sense UI 7",
+            "year": 2014,
+            "price": 1223
+        },
+        {
+            "id": 4,
+            "brand": "Bird",
+            "model": "Bird S758",
+            "operatingSystem": "Feature phone",
+            "year": 0,
+            "price": 1422
+        },
+        {
+            "id": 5,
+            "brand": "ZTE",
+            "model": "ZTE nubia Z5",
+            "operatingSystem": "Android 4.1.1",
+            "year": 2012,
+            "price": 1566
+        },
+        {
+            "id": 6,
+            "brand": "Prestigio",
+            "model": "Prestigio MultiPad 7.0 Ultra Duo",
+            "operatingSystem": "Android 4.1",
+            "year": 2013,
+            "price": 2691
+        },
+        {
+            "id": 7,
+            "brand": "Philips",
+            "model": "Philips 859",
+            "operatingSystem": "Feature phone",
+            "year": 2004,
+            "price": 2574
+        },
+        {
+            "id": 8,
+            "brand": "HTC",
+            "model": "HTC Wildfire E1",
+            "operatingSystem": "Android 9.0",
+            "year": 2019,
+            "price": 2572
+        },
+        {
+            "id": 9,
+            "brand": "alcatel",
+            "model": "alcatel 2001",
+            "operatingSystem": "Feature phone",
+            "year": 2013,
+            "price": 982
+        },
+        {
+            "id": 10,
+            "brand": "LG",
+            "model": "LG Nitro HD",
+            "operatingSystem": "Android 2.3.5, up to 4.0",
+            "year": 2011,
+            "price": 949
+        }
+    ]
+}
