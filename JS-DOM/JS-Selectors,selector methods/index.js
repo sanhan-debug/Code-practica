@@ -22,6 +22,6 @@ btn.addEventListener("click",function(){
 
 btn2.addEventListener("click",()=>{
     navigator.clipboard.writeText(input.value);
-    // Alert the copied text
+   
     alert("Copied the text: " + input.value);
 })
